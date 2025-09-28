@@ -79,10 +79,6 @@ const columns = [
     dataIndex: 'createTime',
   },
   {
-    title: '更新时间',
-    dataIndex: 'updateTime',
-  },
-  {
     title: '操作',
     key: 'action',
   },
