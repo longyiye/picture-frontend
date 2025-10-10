@@ -12,7 +12,7 @@
       </a-layout>
       <a-layout-footer class="footer">
         <a href="https://github.com/longyiye/picture-frontend" target="_blank">
-          AI 彩虹云穹 by 小野狼
+          智图云穹 by 小野狼
         </a>
       </a-layout-footer>
     </a-layout>
